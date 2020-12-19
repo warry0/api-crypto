@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/api-crypto/static/css/main.9be3d2b1.chunk.css",
+    "main.js": "/api-crypto/static/js/main.1194f32f.chunk.js",
+    "main.js.map": "/api-crypto/static/js/main.1194f32f.chunk.js.map",
+    "runtime-main.js": "/api-crypto/static/js/runtime-main.42506b6d.js",
+    "runtime-main.js.map": "/api-crypto/static/js/runtime-main.42506b6d.js.map",
+    "static/js/2.27fe7092.chunk.js": "/api-crypto/static/js/2.27fe7092.chunk.js",
+    "static/js/2.27fe7092.chunk.js.map": "/api-crypto/static/js/2.27fe7092.chunk.js.map",
+    "index.html": "/api-crypto/index.html",
+    "static/css/main.9be3d2b1.chunk.css.map": "/api-crypto/static/css/main.9be3d2b1.chunk.css.map",
+    "static/js/2.27fe7092.chunk.js.LICENSE.txt": "/api-crypto/static/js/2.27fe7092.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.42506b6d.js",
+    "static/js/2.27fe7092.chunk.js",
+    "static/css/main.9be3d2b1.chunk.css",
+    "static/js/main.1194f32f.chunk.js"
+  ]
+}
